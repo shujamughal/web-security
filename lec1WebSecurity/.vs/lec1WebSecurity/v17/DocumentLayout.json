@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\models\\userinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\models\\userinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\models\\securepasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\models\\securepasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\models\\sanitizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\models\\sanitizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\models\\isanitizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\models\\isanitizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\models\\notallowedwordsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\models\\notallowedwordsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec1websecurity\\lec1websecurity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4A75EAB-22E6-4847-9FE2-9BE84A10D7DA}|lec1WebSecurity\\lec1WebSecurity.csproj|solutionrelative:lec1websecurity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurePasswordAttribute.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\SecurePasswordAttribute.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Models\\SecurePasswordAttribute.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\SecurePasswordAttribute.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Models\\SecurePasswordAttribute.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:03:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanitizationService.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\SanitizationService.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Models\\SanitizationService.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\SanitizationService.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Models\\SanitizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:55:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISanitizationService.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\ISanitizationService.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Models\\ISanitizationService.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\ISanitizationService.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Models\\ISanitizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:55:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotAllowedWordsAttribute.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\NotAllowedWordsAttribute.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Models\\NotAllowedWordsAttribute.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\NotAllowedWordsAttribute.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Models\\NotAllowedWordsAttribute.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:53:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "lec1WebSecurity\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T23:49:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Controllers\\UserController.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:49:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInputModel.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\UserInputModel.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Models\\UserInputModel.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Models\\UserInputModel.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Models\\UserInputModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:45:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Program.cs",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Program.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Program.cs",
+              "RelativeToolTip": "lec1WebSecurity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:56:07.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "lec1WebSecurity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec1WebSecurity\\lec1WebSecurity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "lec1WebSecurity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T23:50:10.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
