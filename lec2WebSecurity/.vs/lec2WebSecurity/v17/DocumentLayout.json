@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec2websecurity\\lec2websecurity\\views\\guestbook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|solutionrelative:lec2websecurity\\views\\guestbook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec2websecurity\\lec2websecurity\\views\\guestbook\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|solutionrelative:lec2websecurity\\views\\guestbook\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec2websecurity\\lec2websecurity\\controllers\\guestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|solutionrelative:lec2websecurity\\controllers\\guestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|c:\\shuja data\\github repos\\web-security\\lec2websecurity\\lec2websecurity\\models\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8538168C-8458-4F06-B654-D287634F32A3}|lec2WebSecurity\\lec2WebSecurity.csproj|solutionrelative:lec2websecurity\\models\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Views\\Guestbook\\Create.cshtml",
+              "RelativeDocumentMoniker": "lec2WebSecurity\\Views\\Guestbook\\Create.cshtml",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Views\\Guestbook\\Create.cshtml",
+              "RelativeToolTip": "lec2WebSecurity\\Views\\Guestbook\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T00:17:28.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Views\\Guestbook\\Index.cshtml",
+              "RelativeDocumentMoniker": "lec2WebSecurity\\Views\\Guestbook\\Index.cshtml",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Views\\Guestbook\\Index.cshtml",
+              "RelativeToolTip": "lec2WebSecurity\\Views\\Guestbook\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T00:16:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestbookController.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Controllers\\GuestbookController.cs",
+              "RelativeDocumentMoniker": "lec2WebSecurity\\Controllers\\GuestbookController.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Controllers\\GuestbookController.cs",
+              "RelativeToolTip": "lec2WebSecurity\\Controllers\\GuestbookController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:15:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestbookEntry.cs",
+              "DocumentMoniker": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Models\\GuestbookEntry.cs",
+              "RelativeDocumentMoniker": "lec2WebSecurity\\Models\\GuestbookEntry.cs",
+              "ToolTip": "C:\\Shuja data\\Github repos\\web-security\\lec2WebSecurity\\lec2WebSecurity\\Models\\GuestbookEntry.cs",
+              "RelativeToolTip": "lec2WebSecurity\\Models\\GuestbookEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:14:47.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@model List<GuestbookEntry>
+
+<h2>Guestbook Entries</h2>
+
+@if (Model.Count > 0)
+{
+    <ul>
+        @foreach (var entry in Model)
+        {
+            <li>
+                <strong>@entry.Name</strong> - @entry.DatePosted<br />
+
+                @Html.Raw(Html.Encode(@entry.Message))
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No entries yet.</p>
+}
+
+<a asp-action="Create">Add New Entry</a>
